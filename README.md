@@ -1,6 +1,6 @@
 ## Hi, I'm Assem 👋
 ### About Me
-I am a highly motivated and passionate about mobile (RN/Android) and NodeJS with 4 years of experience in the field. I thrive on challenging projects and enjoy solving complex problems with innovative solutions. My expertise lies in frontend web/mobile and backend NodeJS/elixir, and I have a strong background as a software engineer in general.
+I am a highly motivated and passionate about mobile (RN/Android) and NodeJS with 4 years of experience in the field. I thrive on challenging projects and enjoy solving complex problems with innovative solutions. My expertise lies in frontend web/mobile, backend NodeJS/golang and blockchain technology (wallet-infrastructure), and I have a strong background as a software engineer in general.
 
 ### Interest
 In my free time, I enjoy contributing to open-source. I am constantly learning and exploring new technologies to stay up-to-date with industry trends. Feel free to reach out to me if you have any questions, collaboration opportunities, or exciting projects in mind. I'm always open to new challenges and eager to contribute to impactful ventures.
